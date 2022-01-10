@@ -39,7 +39,6 @@ namespace MCGalaxy {
         public override void Help(Player p)
 		{
 			p.Message("/Discord - Gives you the discord server link");
-			p.Message("Shortcut - /Ds");
 		}
     }
 }
